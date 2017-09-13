@@ -1,0 +1,6 @@
+framework module MSmartSDK {
+  umbrella header "MSmartSDK.h"
+
+  export *
+  module * { export * }
+}
