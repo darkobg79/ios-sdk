@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MSmartSDK'
-  s.version          = '0.1.3'
+  s.version          = '0.1.4'
   s.summary          = 'MSmartSDK，集成文档见http://iot.midea.com/develop/docshow/ios'
   s.description      = 'MSmartSDK，集成文档见http://iot.midea.com/develop/docshow/ios'
   s.homepage         = 'https://github.com/midea-sdk-org/ios-sdk'
@@ -20,6 +20,7 @@ Pod::Spec.new do |s|
   s.libraries = 'z.1.2.8', 'icucore', 'sqlite3.0', 'xml2.2', 'stdc++.6.0.9'
   s.vendored_frameworks = 'MSmartSDK/MSmartSDK.framework'
   s.pod_target_xcconfig = {
-      'OTHER_LDFLAGS' => '-lObjC $(inherited) -undefined dynamic_lookup'
+      'OTHER_LDFLAGS' => '-lObjC $(inherited)',
+      'FRAMEWORK_SEARCH_PATHS' => '$(inherited) $(PODS_ROOT)/MSmartSDK/MSmartSDK'
   }
 end
