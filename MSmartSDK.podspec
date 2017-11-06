@@ -8,7 +8,7 @@
 
 Pod::Spec.new do |s|
   s.name             = 'MSmartSDK'
-  s.version          = '0.1.5'
+  s.version          = '0.1.6'
   s.summary          = 'MSmartSDK，集成文档见http://iot.midea.com/develop/docshow/ios'
   s.description      = 'MSmartSDK，集成文档见http://iot.midea.com/develop/docshow/ios'
   s.homepage         = 'https://github.com/midea-sdk-org/ios-sdk'

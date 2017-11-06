@@ -123,7 +123,7 @@ For example：
 [[MSmartSystemManager sharedManager] setupServerAddress:MSmartServerProduction];
 ```
 
-## 6、The options of SSL security channel：
+### 6、The options of SSL security channel：
 
 ```objective-c
 /**
@@ -255,3 +255,9 @@ You also need to parse the binary string in the API Callback using the same prot
 The specific protocol you can obtain from your BD.
 
 ### 8、The SDK features of iOS and Android is almost the same. This document is for iOS use only. The APIs are different on Android platform due to the system limitation.
+
+
+
+[Change log](./Change log.md) 
+
+[Interface documentation](./html/index.html) 
