@@ -258,6 +258,6 @@ The specific protocol you can obtain from your BD.
 
 
 
-[Change log](./Change log.md) 
+[ChangeLog](./ChangeLog.md) 
 
-[Interface documentation](./html/index.html) 
+[](https://github.com/midea-sdk-org/ios-sdk/blob/master/html/index.html)
