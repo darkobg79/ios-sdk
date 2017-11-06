@@ -260,4 +260,4 @@ The specific protocol you can obtain from your BD.
 
 [ChangeLog](./ChangeLog.md) 
 
-[](https://github.com/midea-sdk-org/ios-sdk/blob/master/html/index.html)
+[Interface documentation](http://htmlpreview.github.io/?https://github.com/midea-sdk-org/ios-sdk/blob/master/html/index.html)
