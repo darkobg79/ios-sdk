@@ -1,8 +1,6 @@
 ## User Manual of MideaSDK for iOS
 
-
-
-
+[中文文档](https://github.com/midea-sdk-org/ios-sdk/blob/master/ios-quick-menaul.md)
 
 ### 1、Use "MSmartSDK.framework" to your project：
 
