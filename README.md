@@ -1,5 +1,9 @@
 ## User Manual of MideaSDK for iOS
 
+
+
+
+
 ### 1、Use "MSmartSDK.framework" to your project：
 
 #### 1.1 Manual management "MSmartSDK.framework" to your project
@@ -258,13 +262,13 @@ The specific protocol you can obtain from your BD.
 
 
 
-#### 9、Support
+### 9、Support
 
 王攀(pan.wang@midea.com)
 
 
 
-#### 10、Documents
+### 10、Documents
 
 [ChangeLog](./ChangeLog.md) 
 
