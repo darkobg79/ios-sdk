@@ -13,7 +13,7 @@
 ##### 1.1.2 Import the required library.
 
 <div  align="center">
-<img src="pic/导入系统库.jpeg" width = "310" height = "212" alt="" align=center />
+<img src="pic/导入系统库.jpeg" width = "310" height = "212" alt="" align="center" />
 </div>
 *Note："MSmartSDK.framework" must be placed before "libsqlite3.tbd"*
 
@@ -257,6 +257,14 @@ The specific protocol you can obtain from your BD.
 ### 8、The SDK features of iOS and Android is almost the same. This document is for iOS use only. The APIs are different on Android platform due to the system limitation.
 
 
+
+#### 9、Support
+
+王攀(pan.wang@midea.com)
+
+
+
+#### 10、Documents
 
 [ChangeLog](./ChangeLog.md) 
 
